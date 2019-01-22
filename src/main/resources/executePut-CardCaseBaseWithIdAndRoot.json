@@ -1,0 +1,15 @@
+{
+  "cardCaseReference" : "CCR704666",
+  "dateTime" : "09-22-2018",
+  "customerContactRecordReference" : "CCRR765086",
+  "cardCaseStatus" : "cardCaseStatus",
+  "caseLocation" : "caseLocation",
+  "cardCaseType" : "Disputed charges",
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "productInstanceReference" : "PIR748028",
+  "employeeBusinessUnitReference" : "EUR709156",
+  "customerReference" : "CCR704666",
+  "cardTransactionRecord" : {},
+  "cardCaseRecord" : {},
+  "cardTransactionReference" : "CTR724706"
+}

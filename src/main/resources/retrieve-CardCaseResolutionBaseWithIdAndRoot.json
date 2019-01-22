@@ -1,0 +1,17 @@
+{
+  "cardCaseReference" : "CCR704666",
+  "correspondenceReference" : "CCR704666",
+  "cardCaseStatus" : "cardCaseStatus",
+  "cardCaseResolutionRecord" : {},
+  "paymentOrderReference" : "POR724509",
+  "cardCaseType" : "Disputed charges",
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "productInstanceReference" : "PIR748028",
+  "employeeBusinessUnitReference" : "EUR709156",
+  "cardCaseResolutionTaskReference" : "CCRTR745662",
+  "customerReference" : "CCR704666",
+  "documentReference" : "DR745415",
+  "cardCaseRecord" : {},
+  "cardCaseResolutionTaskRecord" : {},
+  "cardCaseRootCauseRecord" : {}
+}
